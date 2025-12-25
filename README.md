@@ -1,4 +1,4 @@
-# Web Development Project 2 - *SWE Essentials Flashcards*
+# *SWE Essentials Flashcards*
 
 Submitted by: **Tarina Muna**
 
